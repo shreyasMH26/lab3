@@ -1,0 +1,1 @@
+Hotfix: Corrected edge case in project handler
